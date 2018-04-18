@@ -1,0 +1,47 @@
+UK country code: GBR
+
+
+UK008 Sheffield
+UK003 Leeds
+UK006 Manchester
+UK010 Newcastle
+UK097 Glasgow
+UK005 Liverpool
+UK007 Cardiff ?
+UK004 Bradford
+UK068 Middlesbrough
+UK070 Poole
+UK020 Kingston Upon Hull
+UK059 Southampton
+UK046 Huddersfield
+UK056 Swansea
+UK087 Preston
+UK089 Norwich
+UK084 Newport
+UK099 Aberdeen
+UK050 Sunderland
+UK100 Motherwell
+UK057 Derby
+UK054 Brighton
+UK047 Dudley
+UK057 Derby
+UK024 The Wirral
+UK048 Wigan
+UK049 Doncaster
+UK022 Doncaster
+UK022 Wolverhampton
+UK090 Chester
+UK051 Bolton
+UK080 Blackpool
+UK063 Northampton
+UK074 Petersborough
+UK052 Walsall
+UK053 Rochester
+UK065 Luton
+UK083 Blackburn
+UK073 Grimsby
+UK060 Oldham
+UK095 Carlisle
+
+
+
