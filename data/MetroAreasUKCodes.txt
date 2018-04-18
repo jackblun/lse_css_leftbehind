@@ -28,7 +28,6 @@ UK057 Derby
 UK024 The Wirral
 UK048 Wigan
 UK049 Doncaster
-UK022 Doncaster
 UK022 Wolverhampton
 UK090 Chester
 UK051 Bolton
