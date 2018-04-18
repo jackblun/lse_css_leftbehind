@@ -6,3 +6,7 @@ US municipalities: US033 US055 US 035 US045 US038 US069 US081 US097 US106 US134 
 CAN
 Canada regions: CA35
 Canada municipalities: CA29, CA32,CA30, CA31, CA34, CA33, CA28, CA27
+
+DEU
+Germany regions: DED, DEE
+Germany municipalities: DE010, DE501, DE006, DE015, DE503, DE511, DE509, DE022, DE525
