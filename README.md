@@ -4,7 +4,7 @@ Work on LSE CSS Hackathon Left Behind Challenge
 England: North and Midlands (Ed)
 Wales: South (Ed)
 Scotland: West Central (Ed)
-France: North East (Raphael)
+France: North East (Antoine)
 Germany: Ruhr, Saxony and Saxony-Anhalt (Til)
 Belgium: Wallonia region (Younes)
 Poland: Silesian areas (Simona)
