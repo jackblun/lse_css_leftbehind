@@ -15,10 +15,10 @@ Former Soviet Union: industrial monotowns (Til)
 Japan: Northern Kyushu (Miriam)
 Others: port cities like Baltimore, Marseilles or Genoa
 
-USA \n
-US regions: US26, US39, US18, US17, US54, US42 \n
-US municipalities: US033 US055 US 035 US045 US038 US069 US081 US097 US106 US134 US107 \n
+USA /n
+US regions: US26, US39, US18, US17, US54, US42 /n
+US municipalities: US033 US055 US 035 US045 US038 US069 US081 US097 US106 US134 US107 /n
 
-CAN \n
-Canada regions: CA35 \n
-Canada municipalities: CA29, CA32,CA30, CA31, CA34, CA33, CA28, CA27 \n
+CAN /n
+Canada regions: CA35 /n
+Canada municipalities: CA29, CA32,CA30, CA31, CA34, CA33, CA28, CA27
