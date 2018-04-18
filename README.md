@@ -6,9 +6,9 @@ Wales: South (Ed)
 Scotland: West Central (Ed)
 France: North East (Antoine)
 Germany: Ruhr, Saxony and Saxony-Anhalt (Til)
-Belgium: Wallonia region (Younes) - BE3
-Poland: Silesian areas (Younes) - PL22, PL51
-Czech Republic: Silesian areas (Younes) - CZ08
+Belgium: Wallonia region (Younes) - BE3 - BEL
+Poland: Silesian areas (Younes) - PL22, PL51 - POL
+Czech Republic: Silesian areas (Younes) - CZ08 - CZE
 US: Great Lakes, Mid-West, Appalachian (Jack)
 Canada: Southern Ontario (Jack)
 Former Soviet Union: industrial monotowns (Til)
