@@ -6,7 +6,7 @@ Wales: South (Ed)
 Scotland: West Central (Ed)
 France: North East (Antoine)
 Germany: Ruhr, Saxony and Saxony-Anhalt (Til)
-Belgium: Wallonia region (Younes)
+Belgium: Wallonia region (Younes) - BE3
 Poland: Silesian areas (Simona)
 Czech Republic: Silesian areas (Simona)
 US: Great Lakes, Mid-West, Appalachian (Jack)
