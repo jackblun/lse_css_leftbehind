@@ -1,0 +1,12 @@
+### Guide to data files
+
+# This document gives information on where to find the data files for the predicting rust belt element of the LSE CSS Challenge
+
+### 1. OECD metropolitan area level data
+
+# https://stats.oecd.org/Index.aspx?DataSetCode=CITIES
+
+### 2. Shapefiles
+
+# Country shapefiles https://gadm.org/download_country.html
+# OECD metro area shapefiles http://www.oecd.org/cfe/regional-policy/functionalurbanareasbycountry.htm
