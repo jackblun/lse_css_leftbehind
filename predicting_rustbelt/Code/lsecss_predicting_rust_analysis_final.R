@@ -440,3 +440,40 @@ rb.ger.pred.prob <- tm_shape(ger.map) + tm_polygons(id = "ID_0") +
     legend.bg.alpha = 0) +
   tm_layout(attr.outside = T, legend.outside = T, frame = FALSE)
 save_tmap(rb.ger.pred.prob, "Output/rb_ger_pred_probs.png")
+
+
+### ----------------------------------------------------------------------------------------------------
+
+### densities 
+
+### Germany
+
+vars <- colnames(DEclean)[4:(ncol(DEclean)-1)]
+
+for (n in vars){
+  png(filename=paste0("Output/distributions/germany_",n,".png"), units="cm", width=20, height=20, res=400)
+  dens1 <- with(DEclean[which(DEclean$rustbelt=='Not Rustbelt'), ], density(get(n),na.rm=T))
+  dens_rustbelt <- with(DEclean[which(DEclean$rustbelt=='Rustbelt'), ], density(get(n),na.rm=T) )
+  max_y <- max(max(dens1$y),max(dens_rustbelt$y))
+  plot(dens1, ylim=c(0,max_y), col='blue', main=n, lwd=4)
+  lines(dens_rustbelt, col='red', lwd=4)
+  dev.off()
+}
+
+### densities US
+
+vars <- colnames(USclean)[4:(ncol(USclean)-1)]
+
+for (n in vars){
+  png(filename=paste0("Output/distributions/US_",n,".png"), units="cm", width=20, height=20, res=400)
+  dens1 <- with(USclean[which(USclean$rustbelt=='Not Rustbelt'), ], density(get(n),na.rm=T))
+  dens_rustbelt <- with(USclean[which(USclean$rustbelt=='Rustbelt'), ], density(get(n),na.rm=T) )
+  max_y <- max(max(dens1$y),max(dens_rustbelt$y))
+  plot(dens1, ylim=c(0,max_y), col='blue', main=n, lwd=4)
+  lines(dens_rustbelt, col='red', lwd=4)
+  dev.off()
+}
+
+
+
+
