@@ -1,0 +1,343 @@
+IND,label
+ALLENT_ACTIVE,Number of all firms actives (incl. non-employers)
+ALLENT,"Indicators related to all firms, including non-employers firms"
+ALLENT_B,Number of births (all firms)
+ALLENT_D,Number of deaths (all firms)
+ALLENT_YS3,Number of 3-year-old enterprises (all firms)
+ALLENT_ACTIVE_EMPN,Number of persons employed in active enterprises (all firms)
+ALLENT_B_EMPN,Number of persons employed in newly born enterprises (all firms)
+ALLENT_D_EMPN,Number of persons employed in newly dead entreprises (all firms)
+ALLENT_YS3_EMPN,Number of persons employed in 3-year-old enterprises (all firms)
+ALLENT_CHURN_RA,"Churn rate (births plus deaths in % of all firms - same sector, same size class)"
+ALLENT_B_RA,"Birth rate (in % of all firms - same sector, same size class)"
+ALLENT_D_RA,"Death rate (in % of all firms - same sector, same size class)"
+ALLENT_YS3_RA,"3-year survival rate (% of all firms born 3 years ago having survived - same sector, same size class)"
+ALLENT_ACTIVE_SIZE,Average employment size of active enterprises (all firms)
+ALLENT_B_SIZE,Average employment size of newly born enterprises (all firms)
+ALLENT_D_SIZE,Average employment size of dead enterprises (all firms)
+ALLENT_ACTIVE_DENSITY,Density of all firms actives (number of actives firms by 1000 population)
+ALLENT_B_DENSITY,Density of birth all firms (number of births divided by 1000 population)
+ALLENT_D_DENSITY,Density of death all firms (number of deaths divided by 1000 population)
+ALLENT_NET,"Net business population growth/shrink (births less deaths in (t) over all firms in (t-1) - same sector, same size class)"
+ALLENT_B_SH,"Share of newly born firms in the business population (in % of all firms - same sector, same size class)"
+ALLENT_D_SH,"Share of dead firms in the business population (in % of all firms - same sector, same size class)"
+ALLENT_YS3_SH,"Share of 3-year-old firms in the business population (in % of all firms - same sector, same size class)"
+EMPENT_ACTIVE,Number of employer firms actives
+EMPENT,Indicators related to employers firms
+EMPENT_B,Number of births (employer firms)
+EMPENT_D,Number of deaths (employer firms)
+EMPENT_YS3,Number of 3-year-old enterprises (employer firms)
+EMPENT_ACTIVE_EMPN,Number of persons employed in active enterprises (employer firms)
+EMPENT_B_EMPN,Number of persons employed in newly born enterprises (employer firms)
+EMPENT_D_EMPN,Number of persons employed in newly dead entreprises (employer firms)
+EMPENT_YS3_EMPN,Number of persons employed in 3-year-old enterprises (employer firms)
+EMPENT_CHURN_RA,"Churn rate (births plus deaths in % of employer firms - same sector, same size class)"
+EMPENT_B_RA,"Birth rate (in % of employer firms - same sector, same size class)"
+EMPENT_D_RA,"Death rate (in % of employer firms - same sector, same size class)"
+EMPENT_YS3_RA,"3-year survival rate (% of employer firms born 3 years ago having survived - same sector, same size class)"
+EMPENT_ACTIVE_SIZE,Average employment size of active enterprises (employer firms)
+EMPENT_B_SIZE,Average employment size of newly born enterprises (employer firms)
+EMPENT_D_SIZE,Average employment size of dead enterprises (employer firms)
+EMPENT_ACTIVE_DENSITY,Density of employer firms actives (% of actives firms by 1000 population)
+EMPENT_B_DENSITY,Density of birth employer firms (% of births divided by 1000 population)
+EMPENT_D_DENSITY,Density of death employer firms (% of deaths divided by 1000 population)
+EMPENT_NET,"Net business population growth/shrink (births less deaths in (t) over employer firms (t-1) - same sector, same size class)"
+EMPENT_B_SH,"Share of newly born firms in the business population (in % of employer firms - same sector, same size class)"
+EMPENT_D_SH,"Share of dead firms in the business population (in % of employer firms - same sector, same size class)"
+EMPENT_YS3_SH,"Share of 3-year-old firms in the business population (in % of employer firms - same sector, same size class)"
+ESTAB_ACTIVE,Number of actives establishments
+ESTAB,Indicators related to establishments
+ESTAB_B,Number of establishments births
+ESTAB_D,Number of establishments deaths
+ESTAB_YS3,Number of 3-year-old establishments
+ESTAB_ACTIVE_EMPN,Number of persons employed in establishments
+ESTAB_B_EMPN,Number of persons employed in newly born establishments
+ESTAB_D_EMPN,Number of persons employed in newly dead establishments
+ESTAB_CHURN_RA,"Churn rate (births plus deaths in % of establishments - same sector, same size class)"
+ESTAB_B_RA,"Establishment birth rate (in % of all establishments - same sector, same size class)"
+ESTAB_D_RA,"Establishment death rate (in % of establishments - same sector, same size class)"
+ESTAB_YS3_RA,"Establishment 3-year survival rate (% of establishments born 3 years ago having survived - same sector, same size class)"
+ESTAB_ACTIVE_SIZE,Average employment size of establishments
+ESTAB_B_SIZE,Average employment size of newly born establishments
+ESTAB_D_SIZE,Average employment size of dead establishments
+ESTAB_ACTIVE_DENSITY,Density of establishments (% of establishments by 1000 population)
+ESTAB_B_DENSITY,Density of birth establishments (% of births divided by 1000 population)
+ESTAB_D_DENSITY,Density of death establishments (% of deaths divided by 1000 population)
+ESTAB_NET,"Net establishments population growth/shrink (births less deaths in (t) over establishments (t-1) - same sector, same size class)"
+ESTAB_B_SH,"Share of newly born establishments in the business population (in % of employer firms - same sector, same size class)"
+ESTAB_D_SH,"Share of dead establishments in the business population (in % of establishments - same sector, same size class)"
+ESTAB_YS3_SH,"Share of 3-year-old establishments in the business population (in % of establishments - same sector, same size class)"
+SURF,Regional surface
+AREA_DEN,Regional Area and Population Density
+POP_DEN,Population density (pop. per km2)
+POP_DEN_GR,Population density growth index (2001=100)
+YOU_DEP_RA,"Dependency Ratio, Youth (% -15 over population 15-64)"
+DEMO_COMP,Demographic Composition and Evolution
+DEMO_IND,Regional Demographic Indicators
+ELD_DEP_RA,"Dependency Ratio, Elderly (% 65+ over population 15-64)"
+DEM_DEP_RA,"Dependency Ratio, Demographic (% -15 plus 65+ over population 15-64)"
+SR_TOT_RA,"Sex Ratio, Total Population (% population males over females )"
+SR_YOU_RA,"Sex Ratio, Youth Population (% -15 population males over females )"
+SR_ELD_RA,"Sex Ratio, Elderly Population (% 65+ population males over females )"
+POP_65M_SH,Share of Elderly Population (% 65+ over total population)
+POP_80M_SH,Share of Very Elderly Population (% 80+ over total population)
+KID_WOM_RA,Child-to-Woman Ratio (% 0-4 over females 15-49)
+POP_TOT_GI,Growth/Shrinking Index of the Total Population (2001=100)
+POP_65M_GI,Growth/Shrinking Index of the 65+ Elderly Population (2001=100)
+DEATH_RA,Crude Death Rate (deaths for 100 000 population)
+MORT_IND,Regional Mortality and Life Expectancy
+YOU_DEATH_RA,Crude Youth Death Rate (0-14 deaths for 100 000 population of same age group)
+STD_MORT,Age-Adjusted Mortality Rate (deaths for 1000 population)
+INF_MORT,Infant Mortality Rate (less than 1 year deaths for 1 000 live births)
+INF_SEXDIF,Infant Mortality Rate - Gender difference (female-male)
+LIFE_EXP,Life Expectancy at Birth
+LIFE_SEXDIF,Life Expectancy at Birth - Gender difference in Years (female-male)
+INMIG_ALL,New residents in the region coming from another region of the same country 
+MOB,Inter-regional Mobility 
+INMIG_15_29,New residents in the region aged 15 to 29 coming from another region of the same country
+OUTMIG_ALL,Persons who left the region to reside in another region of the same country
+OUTMIG_15_29,Persons aged 15 to 29 who left the region to reside in another region of the same country
+NETMIG_ALL,"Net inter-regional migration, All Persons (inflows minus outflows)"
+NETMIG_15_29,"Net inter-regional migration, Persons aged 15 to 29(inflows minus outflows)"
+FLOWMIG_ALL_RA,"Inter-regional migration rate, (% migrants over population)"
+NETMIG_ALL_RA,"Inter-regional net flows migration rate, (% net flows over population)"
+YOUNGMIG_SH,Young migrants share (migrants 15 to 29 over total migrants)
+T,"Population, All ages"
+POP,Regional Population by Age (persons)
+Y0_14,Youth Population Group (0-14)
+Y0_4,"Population, 0-4"
+Y5_9,"Population, 5-9"
+Y10_14,"Population, 10-14"
+Y15_64,Working Age Population Group (15-64)
+Y15_19,"Population, 15-19"
+Y20_24,"Population, 20-24"
+Y25_29,"Population, 25-29"
+Y30_34,"Population, 30-34"
+Y35_39,"Population, 35-39"
+Y40_44,"Population, 40-44"
+Y45_49,"Population, 45-49"
+Y50_54,"Population, 50-54"
+Y55_59,"Population, 55-59"
+Y60_64,"Population, 60-64"
+Y65_MAX,Old Population Group (65+)
+Y65_69,"Population, 65-69"
+Y70_74,"Population, 70-74"
+Y75_79,"Population, 75-79"
+Y80_MAX,"Population, 80+"
+D_T,"Deaths, All ages"
+MORT,Deaths by Age in Regions (persons)
+D_Y0_14,"Deaths, Youth Group (0-14)"
+D_Y0_4,"Deaths, 0-4"
+D_Y5_9,"Deaths, 5-9"
+D_Y10_14,"Deaths, 10-14"
+D_Y15_64,"Deaths, Working Age Group (15-64)"
+D_Y15_19,"Deaths, 15-19"
+D_Y20_24,"Deaths, 20-24"
+D_Y25_29,"Deaths, 25-29"
+D_Y30_34,"Deaths, 30-34"
+D_Y35_39,"Deaths, 35-39"
+D_Y40_44,"Deaths, 40-44"
+D_Y45_49,"Deaths, 45-49"
+D_Y50_54,"Deaths, 50-54"
+D_Y55_59,"Deaths, 55-59"
+D_Y60_64,"Deaths, 60-64"
+D_Y65_MAX,"Deaths, Old Group (65+)"
+D_Y65_69,"Deaths, 65-69"
+D_Y70_74,"Deaths, 70-74"
+D_Y75_79,"Deaths, 75-79"
+D_Y80_MAX,"Deaths, 80+"
+POP_TOT_TYPO_SH,    Share of national population in predominantly rural / intermediate / urban regions
+SURF_TYPO_SH,    Share of national area predominantly rural / intermediate / urban
+Last SNA classification (SNA 2008 or latest available),GDP
+"Previous SNA classification (SNA 1993, discontinued series)",INCOME_DISP
+Reference data,INCOME_PRIM
+STU_ENR_TOTAL,Student Enrolment Total
+STU_ENR,Student Enrolment by Level of Education
+STU_ENR_ISCED02,    Student Enrolment at Elementary Level (ISCED 0-2)
+STU_ENR_ISCED34,    Student Enrolment at Secondary Level (ISCED 3-4)
+STU_ENR_ISCED02_RA,    Student Enrolment at Elementary Level Rate (in % of population)
+STU_ENR_ISCED34_RA,    Student Enrolment at Secondary Level Rate (in % of population)
+EDU_LF_NRESP,    Labour Force with Unknown Educational Level
+EDU_LF,Educational Attainments of the Labour Force
+RD_EXP_TOT,R&D Total Expenditure (millions of current national currency)
+RD_EXP,R&D Expenditures by performing sector
+RD_EXP_BUS,    R&D Expenditures Performed by the Business Sector (millions of current national currency)
+RD_EXP_GOV,    R&D Expenditures Performed by the Government Sector (millions of current national currency)
+RD_EXP_HE,    R&D Expenditures Performed by the Higher Education Sector (millions of current national currency)
+RD_EXP_PNP,    R&D Expenditures Performed by the Private and Non-Profit Sector (millions of current national currency)
+RD_EXP_TOT_PPP,"R&D Total Expenditure (millions USD, constant prices, constant PPP, base year 2010)"
+RD_EXP_BUS_PPP,"    R&D Expenditures Performed by the Business Sector (millions USD, constant prices, constant PPP, base year 2010)"
+RD_EXP_GOV_PPP,"    R&D Expenditures Performed by the Government Sector (millions USD, constant prices, constant PPP, base year 2010)"
+RD_EXP_HE_PPP,"    R&D Expenditures Performed by the Higher Education Sector (millions USD, constant prices, constant PPP, base year 2010)"
+RD_EXP_PNP_PPP,"    R&D Expenditures Performed by the Private and Non-Profit Sector (millions USD, constant prices, constant PPP, base year 2010)"
+RD_EXP_TOT_SH,Share of R&D Total Expenditure (in % of GDP)
+RD_EXP_BUS_SH,    Share of R&D Expenditures Performed by the Business Sector (in % of GDP)
+RD_EXP_GOV_SH,    Share of R&D Expenditures Performed by the Government Sector (in % of GDP)
+RD_EXP_HE_SH,    Share of R&D Expenditures Performed by the Higher Education Sector (in % of GDP)
+RD_EXP_PNP_SH,    Share of R&D Expenditures Performed by the Private and Non-Profit Sector (in % of GDP)
+EDU_LF_T,Labour Force Total
+EDU_LF_ISCED02,    Labour Force with Elementary Education (ISCED 0-2)
+EDU_LF_ISCED34,    Labour Force with Secondary education (ISCED 3-4)
+EDU_LF_ISCED02_SH,Share of Labour Force with Elementary Education (in % of labour force)
+EDU_LF_ISCED34_SH,Share of Labour Force with Secondary Education (in % of labour force)
+EDU_LF_ISCED58_SH,Share of Labour Force with Tertiary Education (in % of labour force)
+EDU_LF_ISCED58,    Labour Force with Tertiary education (ISCED 5-8)
+HT_MG_EMP_T_SH,Share of employment in high-technology manufacturing (in % of total employment)
+TECH,Knowledge and high techonology industries
+KIS_EMP_T_SH,Share of employment in knowledge-intensive services (as a share of total employment)
+HT_MG_EMP_T,Employment in high-technology manufacturing
+KIS_EMP_T,Employment in knowledge-intensive services
+TOTAL_EMP_T,"Total employment, all activities"
+STU_ENR_ISCED58_RA,    Student Enrolment at Tertiary Level Rate (in % of population)
+STU_ENR_ISCED58,    Student Enrolment at Tertiary Level (ISCED 5-6)
+RD_PER_T_TOT,R&D Total Personnel
+RD_PER,R&D Personnel by Sector
+RD_PER_T_BUS,    R&D Personnel Employed by the Business Sector
+RD_PER_T_GOV,    R&D Personnel Employed by the Government Sector
+RD_PER_T_HE,    R&D Personnel Employed by the Higher Education Sector
+RD_PER_T_PNP,    R&D Personnel Employed by the Private and Non-Profit Sector
+RD_PER_T_TOT_RA,R&D Total Personnel Rate (in % of total employment)
+RD_PER_T_BUS_RA,    R&D Personnel Employed by the Business Sector Rate (in % of total employment)
+RD_PER_T_GOV_RA,    R&D Personnel Employed by the Government Sector Rate (in % of total employment)
+RD_PER_T_HE_RA,    R&D Personnel Employed by the Higher Education Sector Rate (in % of total employment)
+RD_PER_T_PNP_RA,    R&D Personnel Employed by the Private and Non-Profit Sector Rate (in % of total employment)
+RD_PER_F_TOT,R&D Total Female Personnel
+RD_PER_F_BUS,    R&D Female Personnel Employed by the Business Sector
+RD_PER_F_GOV,    R&D Female Personnel Employed by the Government Sector
+RD_PER_F_HE,    R&D Female Personnel Employed by the Higher Education Sector
+RD_PER_F_PNP,    R&D Female Personnel Employed by the Private and Non-Profit Sector
+RD_PER_F_BUS_RA,    R&D Female Employed by the Business Sector Rate (in % of Female employment)
+RD_PER_F_GOV_RA,    R&D Female Employed by the Government Sector Rate (in % of Female employment)
+RD_PER_F_HE_RA,    R&D Female Employed by the Higher Education Sector Rate (in % of Female employment)
+RD_PER_F_PNP_RA,    R&D Female Employed by the Private and Non-Profit Sector Rate (in % of Female employment)
+RD_PER_F_TOT_SH,Share of R&D Female in R&D Total Personnel
+RD_PER_F_BUS_SH,"    Share of R&D Female Personnel Employed by the Business Sector (in % of total R&D personnel, same sector)"
+RD_PER_F_GOV_SH,"    Share of R&D Female Employed by the Government Sector (in % of total R&D personnel, same sector)"
+RD_PER_F_HE_SH,"    Share of R&D Female Employed by the Higher Education Sector (in % of total R&D personnel, same sector)"
+RD_PER_F_PNP_SH,"    Share of R&D Female Employed by the Private and Non-Profit Sector (in % of total R&D personnel, same sector)"
+RD_PER_F_TOT_RA,R&D Female Personnel Rate (in % of Female employment)
+POP_Y15_MAX,Working Age Population (15 years old and over)
+REG_LFS,Regional Labour Force Statistics :
+LF_Y15_MAX,Labour Force (15 years old and over)
+LF_Y15_24,Youth Labour Force (15-24 years old)
+EMP_Y15_MAX,Employment (15 years old and over)
+REG_EMP,Regional Employment Statistics :
+EMP_PT,"Part-Time Employment (15 years old and over, working under 30 hours per week)"
+EMP_PT_SH,Part-Time Employment Incidence (% part-time employees over total employment)
+EMP_PT_SH_SEXDIF,Part-Time Employment Incidence Gender difference (female-male)
+UNEM_Y15_24,Youth Unemployment (15-24 years old)
+REG_UNEMP,Regional Unemployment Statistics :
+UNEM_Y15_24_RA,Youth Unemployment Rate (% unemployment 15-24 over labour force 15-24)
+LT_UNEM,"Long Term Unemployment (15 years old and over, unemployed 12 months or more)"
+LT_UNEM_RA,Long Term Unemployment Rate (% LT unemployment over labour force)
+LT_UNEM_SH,Long Term Unemployment Incidence (% LT unemployment over total unemployment)
+LT_UNEM_RA_GR_2001,Long Term Unemployment Rate Growth Index (2001=100)
+LT_UNEM_RA_GR_2007,Long Term Unemployment Rate Growth Index (2007=100)
+LT_UNEM_SH_GR_2001,Long Term Unemployment Incidence Growth Index (2001=100)
+LT_UNEM_SH_GR_2007,Long Term Unemployment Incidence Growth Index (2007=100)
+EMP_Y15_24,Youth Employment (15-24 years old)
+POP_Y15_64,Working Age Population (15-64 years old)
+LF_Y15_64,Labour Force (15-64 years old)
+PARTIC_RA_15_MAX,Participation Rate 15+ (% labour force 15+ over population 15+)
+PARTIC_RA_15_64,Participation Rate 15-64 (% labour force 15-64 over population 15-64)
+PARTIC_RA_15_MAX_GR_2001,"Participation Rate, 15 years old or more, Growth Index (2001=100)"
+PARTIC_RA_15_64_GR_2001,"Participation Rate Growth, 15-64 years old, Index (2001=100)"
+PARTIC_RA_15_MAX_GR_2007,"Participation Rate Growth, 15 years old or more, Index (2007=100)"
+PARTIC_RA_15_64_GR_2007,"Participation Rate Growth, 15-64 years old, Index (2007=100)"
+PARTIC_RA_15_MAX_SEXDIF,"Participation Rate Gender difference, 15 years old or more (female-male)"
+PARTIC_RA_15_64_SEXDIF,"Participation Rate Gender difference, 15-64 years old (female-male)"
+EMP_Y15_64,Employment (15-64 years old)
+EMP_RA_15_MAX,Employment Rate (% employment 15+ over population 15+)
+EMP_RA_15_64,Employment Rate (% employment 15-64 over working age population 15-64)
+EMP_RA_15_MAX_GR_2001,"Employment Rate Growth, 15 years old and over, Index (2001=100)"
+EMP_RA_15_64_GR_2001,"Employment Rate Growth, 15-64 years old, Index (2001=100)"
+EMP_RA_15_MAX_GR_2007,"Employment Rate Growth, 15 years old and over, Index (2007=100)"
+EMP_RA_15_64_GR_2007,"Employment Rate Growth, 15-64 years old, Index (2007=100)"
+UNEM,Unemployed
+UNEM_RA_15_MAX,Unemployment Rate (% unemployed over labour force 15+)
+UNEM_RA_15_64,Unemployment Rate (% unemployed over labour force 15-64)
+UNEM_RA_15_MAX_GR_2007,"Unemployment Rate, 15 years old or more, Growth Index (2007=100)"
+UNEM_RA_15_64_GR_2007,"Unemployment Rate, 15-64 years old, Growth Index (2007=100)"
+UNEM_RA_15_MAX_SEXDIF,"Unemployment Rate Gender difference, 15 years old or more (female-male)"
+UNEM_RA_15_64_SEXDIF,"Unemployment Rate Gender difference, 15-64 years old (female-male)"
+EMP_RA_15_64_SEXDIF,"Employment Rate Gender difference, 15 years old or more (female-male)"
+EMP_RA_15_MAX_SEXDIF,"Employment Rate Gender difference, 15-64 years old (female-male)"
+DOC,Active Physicians (number)
+HEALTH,Health access
+DOC_RA,Active Physicians Rate (physicians for 1000 population)
+HOSP_BED,Hospital Beds (number)
+HOSP_BED_RA,Hospital Bed Rate (hospital beds for 10 000 population)
+MORT_TRANSP_RA,Mortality rate due to transport accident (deaths for  100 000 population)
+SAFETY,Safety
+HOMIC,Intentional Homicides (number)
+HOMIC_RA,Intentional Homicide Rate (homicides for 100 000 population)
+VEH_THEFT,Motor Vehicle Theft Rate (number)
+VEH_THEFT_RA,Motor Vehicle Theft Rate (vehicule theft for 10 000 population)
+LEAVERS_T_RA,Rate of Early Leavers from Education and Training (in % of the total population aged 18 to 24)
+EXCLU,Social Exclusion
+LEAVERS_F_RA,Rate of Early Females Leavers from Education and Training (in % of the female population aged 18 to 24)
+LEAVERS_M_RA,Rate of Early Males Leavers from Education and Training (in % of the male population aged 18 to 24)
+LEAVERS_RA_SEXDIF,Rate of Early Leavers from Education and Training - Gender difference (female-male)
+NEET_T_RA,Rate of Young People Not in Employment and not in any Education and Training (in % of the total population aged 18 to 24)
+NEET_F_RA,Rate of Young Females Not in Employment and not in any Education and Training (in % of the female population aged 18 to 24)
+NEET_M_RA,Rate of Young Males Not in Employment and not in any Education and Training (in % of the male population aged 18 to 24)
+NEET_RA_SEXDIF,Rate of Young People Not in Employment and not in any Education and Training - Gender difference (female-male)
+ROOMS_PC,Average number of rooms per inhabitant (rooms per capita)
+HOUSING,Housing
+HOUSE_COST_SH,Share of Housing Cost (in % of household disposable income)
+WASTE_RA,Municipal Waste Rate (kilos per capita)
+ENV,Environment
+AIR_POL,Air Pollution in PM2.5 (average level in µg/m³ experienced by the population)
+PM10_LESS20,Air Pollution in PM10 < 20 µg/m3 (number of inhabitants exposed to particles)
+PM10_20MORE,Air Pollution in PM10 > 20 µg/m3 (number of inhabitants exposed to particles)
+CO2_KTONNES,CO2 Emissions (in kilo tonnes)
+CO2_CAPITA,CO2 Emissions Rate (in tonnes per capita)
+CO2_ENERGY_SH,CO2 Emissions Share from the Energy Sector (in % of total emissions)
+CO2_TRANSP_SH,CO2 Emissions Share from the Transport Sector (in % of total emissions)
+NO2_EMISSIONS,NO2 Emissions (in 10^n molecules/cm2)
+CO2_SEQUEST,Net Ecosystem Productivity measured by CO2 Sequestration or Release (in g/m2)
+VEGET_COVER_R,Vegetation Coverage Share (in % of regional land)
+VEH,Private Vehicles (number)
+VEH_RA,Private Vehicles Rate (number of vehicles for 100 population)
+VOTERS_RA,Voters Turnout to General Elections (in % of registered voters who voted)
+CIVIC,Civic Engagement
+WASTE,Municipal Waste (in kilo-tonnes)
+BB_ACC,Share of households with internet broadband access (in % of total households)
+ACCESS,Access to services
+Life expectancy at birth,VALUE
+Health,UP_CI
+REGIONAL WELL-BEING,RIDD_QUAL
+"Air pollution, level of PM2.5",LO_CI
+Environment,
+Voter turnout in general election,
+Civic engagement,
+Share of households with internet broadband access,
+Access to services,
+"Gini (at disposable income, after taxes and transfers)",
+Inequality,
+REGIONAL INCOME DISTRIBUTION,
+Gini before taxes and transfers,
+"Poverty rate after taxes and transfers, Poverty line 60%",
+Poverty,
+"Poverty rate before taxes and transfers, Poverty line 60%",
+"Poverty rate after taxes and transfers, Poverty line 50%",
+"Poverty rate before taxes and transfers, Poverty line 50%",
+S80/S20 disposable income quintile ratio ,
+Number of rooms per person,
+Housing,
+Perceived social network support,
+Social network support,
+Self-evaluation of life satisfaction,
+Life satisfaction,
+Disposable income per capita,
+Income,
+Employment rate,
+Jobs,
+Unemployment rate,
+Share of labour force with at least secondary education,
+Education,
+Standardised mortality rate,
+Homicide rate,
+Safety,
+Perception of corrution,
+Quality of government,
